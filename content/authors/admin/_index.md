@@ -60,9 +60,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Abhishek_Kumar461
-- icon: github
-  icon_pack: fab
-  link: https://github.com/abhikumar86
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/abhikumar86
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/abhikumar86
