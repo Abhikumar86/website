@@ -77,4 +77,4 @@ highlight_name: false
 
 Abhishek Kumar is a senior research fellow at the [Soil Ecosystem and Restoration Ecology Lab](https://searel.netlify.app/) in the Department of Botany, Panjab University, Chandigarh. His research interests include the responses of ecological structure and functions to climate change, and he is currently working on the elevational pattern of plant distributions and diversity in the Siwalik Ecosystem.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv-2021.pdf" "newtab" >}}CV{{< /staticref >}}.
