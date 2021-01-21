@@ -48,6 +48,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2252-7623
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/1578460/abhishek-kumar/ 
+- icon: scopus
+  icon_pack: ai
+  link: https://www.scopus.com/authid/detail.uri?authorId=57216227909
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en
