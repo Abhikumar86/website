@@ -51,18 +51,15 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/1578460/abhishek-kumar/ 
-- icon: scopus
-  icon_pack: ai
-  link: https://www.scopus.com/authid/detail.uri?authorId=57216227909
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Abhishek_Kumar461
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/abhikumar86
+- icon: github
+  icon_pack: fab
+  link: https://github.com/abhikumar86
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/abhikumar86
