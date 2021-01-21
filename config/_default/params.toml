@@ -114,8 +114,6 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "kumar_abhi8", link = "https://twitter.com/kumar_abhi8"},
   {icon = "facebook", icon_pack = "fab", name = "abhikumar86", link = "https://facebook.com/abhikumar86"},
-  {icon = "instagram", icon_pack = "fab", name = "kumar.a48", link = "https://instagram.com/kumar.a48/"},
-  {icon = "whatsapp", icon_pack = "fab", name = "Whatsapp Me", link = "+91 9034473233"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
