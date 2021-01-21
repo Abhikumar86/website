@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Abhishek Kumar
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Panjab University, Chandigarh
+  url: https://www.puchd.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include plant ecology, restoration ecology and soil ecology.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Plant Ecology
+- Plant Distribution
+- Climate Change
+- Restoration Ecology
+- Soil Ecology
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Botany (Plant Ecology)
+    institution: Panjab University, Chandigarh
+    year: Present
+  - course: MSc in Botany
+    institution: Panjab University, Chandigarh
+    year: 2017
+  - course: BSc in Medical Science
+    institution: Kurukshetra University, Kurukshetra
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:abhikumar.pu@gmail.com'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2252-7623
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Abhishek_Kumar461
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/abhikumar86
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/abhikumar86
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +75,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Abhishek Kumar is a senior research fellow at the [Soil Ecosystem and Restoration Ecology Lab](https://searel.netlify.app/) in the Department of Botany, Panjab University, Chandigarh. His research interests include the responses of ecological structure and functions to climate change, and he is currently working on the elevational pattern of plant distributions and diversity in the Siwalik Ecosystem.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
