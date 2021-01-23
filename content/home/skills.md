@@ -29,8 +29,8 @@ feature:
   icon_pack: ai
   name: Mendeley
 - description: 55%
-  icon: map
-  icon_pack: fab
+  icon: map-marked-alt
+  icon_pack: fas
   name: ArcGIS
 - description: 55%
   icon: file-pdf
