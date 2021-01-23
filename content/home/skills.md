@@ -28,8 +28,26 @@ feature:
   icon: mendeley
   icon_pack: ai
   name: Mendeley
-  
-
+- description: 55%
+  icon: map
+  icon_pack: fab
+  name: ArcGIS
+- description: 55%
+  icon: file-pdf
+  icon_pack: fas
+  name: Adobe Acrobat
+- description: 80%
+  icon: file-word
+  icon_pack: fas
+  name: MS Word
+- description: 75%
+  icon: file-powerpoint
+  icon_pack: fas
+  name: MS PowerPoint
+- description: 60%
+  icon: file-excel
+  icon_pack: fas
+  name: MS Excel
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
