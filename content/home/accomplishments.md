@@ -28,10 +28,10 @@ item:
   date_start: "2020-08-01"
   description: |2- 
       This 4-course online specialization covered how to find, create, evaluate, filter analyze spatial relationships of GIS data. Further, it included how to design an effective map, how to work with satellite imagery, and how to effectively present the analyses in a web-based story map in the capstone course.
-      
-        * Analysing
-        * Modelling
-        * Deploying
+      * Introduction to GIS Mapping
+      * GIS Data Acquisition and Map Design
+      * Spatial Analysis and Satellite Imagery in a GIS
+      * GIS, Mapping, and Spatial Analysis Capstone
   organization: Coursera
   organization_url: https://www.coursera.org
   title: GIS, Mapping, and Spatial Analysis
