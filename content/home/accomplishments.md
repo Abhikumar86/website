@@ -26,9 +26,9 @@ item:
 - certificate_url: https://www.coursera.org/verify/specialization/X95XHWK38A6T
   date_end: "2020-12-05"
   date_start: "2020-08-01"
-  description: |2- This 4-course online specialization covered how to find, create, evaluate, filter analyze spatial relationships of GIS data. Further, it included how to design an effective map, how to work with satellite imagery, and how to effectively present the analyses in a web-based story map in the capstone course.
-        Responsibilities include:
-        
+  description: |2- 
+      This 4-course online specialization covered how to find, create, evaluate, filter analyze spatial relationships of GIS data. Further, it included how to design an effective map, how to work with satellite imagery, and how to effectively present the analyses in a web-based story map in the capstone course.
+      
         * Analysing
         * Modelling
         * Deploying
