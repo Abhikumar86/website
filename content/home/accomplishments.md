@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 01 January 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,28 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
+- certificate_url: https://www.coursera.org/verify/specialization/X95XHWK38A6T
+  date_end: "2020-12-05"
+  date_start: ""
+  description: "This 4-course online specialization covered how to find, create, evaluate, filter analyze spatial relationships of GIS data. Further, it included how to design     an effective map, how to work with satellite imagery, and how to effectively present the analyses in a web-based story map in the capstone course."
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  title: GIS, Mapping, and Spatial Analysis
+  url: "https://www.coursera.org/specializations/gis-mapping-spatial-analysis"
+  
+- certificate_url: https://www.coursera.org/verify/specialization/F58WY7YYCWC2
+  date_end: "2020-11-25"
+  date_start: ""
+  description: This 10-course online specialization comprised of two specializations of 5-course each, namely **Data Science: Foundations using R** and **Data Science:             Statistics and Machine Learning** covered the foundational concepts and tools for the data science pipeline including how to use the tools of the trade (The Data Scientist’s     Toolbox) think analytically about complex problems (R Programming), manage large data sets (Getting and Cleaning Data), create visualizations (Exploratory Data Analysis), and   publish reproducible analyses (Reproducible Research) This Specialization covers the concepts and tools you'll need throughout the entire data science pipeline, from asking     the right kinds of questions to making inferences and publishing results. In the final Capstone Project, you’ll apply the skills learned by building a data product using         real-world data. At completion, students will have a portfolio demonstrating their mastery of the material.
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: Data Science
+  url: https://www.coursera.org/specializations/jhu-data-science
+  
+- certificate_url: https://www.coursera.org/verify/specialization/M2YVNZ6EGKDC
+  date_end: "2020-11-06"
+  date_start: ""
+  description: "This 5-course online specialization covered how to analyze and visualize data in R, create reproducible data analysis reports, perform frequentist and Bayesian     statistical inference, model data to understand natural phenomena, make data-based decisions and communicate statistical results effectively."
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Statistics with R'
+  url: "https://www.coursera.org/specializations/statistics"
 ---
