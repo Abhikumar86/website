@@ -56,13 +56,13 @@ social:
   link: https://scholar.google.co.in/citations?user=ugmCylsAAAAJ&hl=en
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Abhishek_Kumar461
+  link: https://www.researchgate.net/profile/Abhishek_Kumar461/
 - icon: github
   icon_pack: fab
-  link: https://github.com/abhikumar86
+  link: https://github.com/abhikumar86/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/abhikumar86
+  link: https://www.linkedin.com/in/abhikumar86/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
