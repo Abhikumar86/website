@@ -1,5 +1,9 @@
 ---
 title: "Mallotus philippensis (Lam.) Müll. Arg.: A review on its pharmacology and phytochemistry"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
 - Meenu Patil
@@ -8,7 +12,10 @@ authors:
 - Rupinder Kaur
 - Nitin Kumar Sharma
 - Anand Narain Singh
+
+# Author notes (optional)
 author_notes: ""
+
 date: "2021-01-01"
 doi: "10.34172/jhp.2021.03"
 
@@ -30,9 +37,12 @@ abstract: Kamala tree (Mallotus philippensis) is traditionally used by different
 # Summary. An optional shortened abstract.
 summary: ""
 tags:
-- Source Themes
+- Ethnobiology
+
+# Display this page in the Featured widget?
 featured: false
 
+# Custom links (uncomment lines below)
 # links:
 # - name: ""
 #   url: ""
@@ -48,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**manpuzhoo indica/Flickr**](https://www.flickr.com/photos/131168796@N06/24825084899/)' 
   focal_point: ""
   preview_only: false
 
@@ -57,7 +67,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: Ethnobiology
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,5 +80,3 @@ slides:
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
