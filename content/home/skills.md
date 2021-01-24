@@ -28,11 +28,11 @@ feature:
   icon: mendeley
   icon_pack: ai
   name: Mendeley
-- description: 55%
+- description: 45%
   icon: map-marked-alt
   icon_pack: fas
   name: ArcGIS
-- description: 55%
+- description: 65%
   icon: file-pdf
   icon_pack: fas
   name: Adobe Acrobat
@@ -44,7 +44,7 @@ feature:
   icon: file-powerpoint
   icon_pack: fas
   name: MS PowerPoint
-- description: 60%
+- description: 65%
   icon: file-excel
   icon_pack: fas
   name: MS Excel
