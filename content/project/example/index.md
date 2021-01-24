@@ -12,7 +12,7 @@ date: "2018-01-01"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Nabakumar_Khoirom on Flickr
   focal_point: Smart
 
 links:
