@@ -37,10 +37,13 @@ abstract: Kamala tree (Mallotus philippensis) is traditionally used by different
 # Summary. An optional shortened abstract.
 summary: ""
 tags:
+- Mallotus philippensis
 - Ethnobiology
+- Pharmacology
+- Phytochemistry
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
