@@ -29,9 +29,10 @@ content:
     tag: '*'
   - name: Plant Distribution
     tag: Plant Distribution
+  - name: Siwaliks
+    tag: Siwaliks 
   - name: Others
     tag: Litter Decomposition
-    tag: Siwaliks
     tag: Ethnobiology
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
