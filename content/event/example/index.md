@@ -1,7 +1,7 @@
 ---
 title: Plant response to climate change: Herbarium can act as a tool for future research on plant-climate interactions
 
-event: "National Conference on Climate Change: Agricuture, Biodiversity and Human Health"
+event: National Conference on Climate Change- Agricuture, Biodiversity and Human Health
 event_url: http://cgesindia.org/cges-nbri-national-conference/
 
 location: CSIR-National Botanical Research Institute (NBRI)
