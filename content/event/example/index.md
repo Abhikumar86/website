@@ -18,7 +18,7 @@ abstract: "Understanding of plant response to the changing environmental conditi
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-02-23T10:00:00Z"
-date_end: "2020-02-023T17:00:00Z"
+date_end: "2020-02-23T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
