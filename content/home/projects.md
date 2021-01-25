@@ -31,9 +31,7 @@ content:
     tag: Plant Distribution
   - name: Others
     tag: Litter Decomposition
-  - name: Others
     tag: Siwaliks
-  - name: Others
     tag: Ethnobiology
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
