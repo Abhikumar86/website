@@ -29,11 +29,11 @@ content:
     tag: '*'
   - name: Plant Distribution
     tag: Plant Distribution
-  - name: Litter Decomposition
+  - name: Others
     tag: Litter Decomposition
-  - name: Siwalik Ecosystem
+  - name: Others
     tag: Siwaliks
-  - name: Ethnobiology
+  - name: Others
     tag: Ethnobiology
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
