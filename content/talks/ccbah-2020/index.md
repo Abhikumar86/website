@@ -1,4 +1,14 @@
 ---
+# An instance of the Blank widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
 title: Plant response to climate change- Herbarium can act as a tool for future research on plant-climate interactions
 
 event: National Conference on Climate Change- Agricuture, Biodiversity and Human Health
