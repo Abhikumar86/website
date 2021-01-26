@@ -1,9 +1,9 @@
 ---
-title: Plant distributions in Siwalliks of North-West India
+title: Ecosystem Structure and Functions in Siwalliks of North-West India
 summary: ""
 tags:
-- Plant Ecology
-- Plant Distribution
+- Ecosystem Structure
+- Ecosystem Functions
 - Climate Change
 - Siwaliks
 date: "2018-01-01"
@@ -12,7 +12,7 @@ date: "2018-01-01"
 external_link: ""
 
 image:
-  caption: Photo by Nabakumar_Khoirom on Flickr
+  caption: Photo by Nabakumar Khoirom on Flickr
   focal_point: Smart
 
 links:
@@ -30,7 +30,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-Plant distributions are governed by several ecological and climatic factors. On going climate change is expected to alter the plant distributions, therefore this project aims to investigate the evidences of alteration in plant distributions.
+Siwaliks is the youngest and southernmost foot hills of Himalayas. These youngest mountain ranges are considered as one of the most degraded ecosystems of the Himalayan landscape. Climate change, landslides, human encroachment, urbanisation and industrilisation are possessing serious threats to the ecosystem structure and functions in this region. This project aims to investigate the responses of ecosystem structure and functions to the climate change.
