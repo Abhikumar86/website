@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Ecological Engineering, 21*(2), 228-243"
-publication_short: "J Ecol Eng"
+publication_short: ""
 
 abstract: The development of reconstructed woody vegetation on coal mine dumps during the trajectory of reclamation is explicitly investigated rehabilitation technique. However, limited information is available about the composition of herbaceous species during ecosystem re-development on mine dumps. The present study attempted to assess the composition of herbaceous vegetation beneath plantation stands of four native woody species on coal mine spoil in a dry tropical environment. After a thorough survey of the study site, total of 44 species of herbaceous plants belonging to 14 families were recorded. Among the recorded plant families, the Poaceae contributed the highest number of species (18) across all ages of all plantation stands. Biodiversity parameter such as species richness exhibited an increasing trend with age under plantation stand of T. grandis only, while the rest of the plantations showed a decreasing trend. In terms of similarity index, plantation stand of A. procera and T. grandis were closer to each other while A. lebbeck and D. strictus were farthest apart. Highest IVI was however recorded in the seedling of A. lebbeck under the planted stand of A. lebbeck while lowest of Rungia repens (2.85) under A. procera stands at 17th - year age. In conclusion, plantation age, dominant tree species, and species specificity has a significant impact on the development of herbaceous vegetation beneath plantation stand of four native woody species.
 
