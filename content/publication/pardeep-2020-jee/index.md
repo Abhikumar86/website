@@ -45,7 +45,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: "View at Publisher"
-   url: "http://www.jeeng.net/Plant-diversity-development-under-planted-woody-species-on-coal-mine-spoil-in-a-dry,116330,0,2.html"
+  url: "http://www.jeeng.net/Plant-diversity-development-under-planted-woody-species-on-coal-mine-spoil-in-a-dry,116330,0,2.html"
 url_pdf: http://www.jeeng.net/pdf-116330-46931?filename=Plant%20Diversity.pdf
 url_code: ''
 url_dataset: ''
