@@ -71,4 +71,21 @@ item:
   organization_url: https://www.coursera.org
   title: 'Statistics with R'
   url: "https://www.coursera.org/specializations/statistics"
+  
+- certificate_url: https://www.coursera.org/verify/specialization/W7V7ZFSBQ4G2
+  date_end: "2020-11-04"
+  date_start: "2020-06-01"
+  description: |2-
+      This 5-course online specialization covered the basics of academic essay writing including grammar and punctuation, academic language, citing sources in different formats and developing a good research paper.
+      * Grammar and Punctuation
+      * Getting Started with Essay Writing
+      * Advanced Writing
+      * Introduction to Research for Essay Writing
+      * Project: Writing a Research Paper      
+  organization: Coursera | University of California, Irvine
+  organization_url: https://www.coursera.org
+  title: 'Academic English: Writing'
+  url: "https://www.coursera.org/specializations/academic-english"  
+  
+  
 ---
