@@ -87,5 +87,12 @@ item:
   title: 'Academic English: Writing'
   url: "https://www.coursera.org/specializations/academic-english"  
   
-  
+- certificate_url: https://www.coursera.org/verify/P7576TUY37LU
+  date_end: "2020-10-26"
+  date_start: "2020-10-01"
+  description: This 5-course online specialization covered the basics of academic essay writing including grammar and punctuation, academic language, citing sources in different formats and developing a good research paper.  
+  organization: Coursera | University of North Carolina, Chapel Hill and University of Edinburgh
+  organization_url: https://www.coursera.org
+  title: 'Research Data Management and Sharing'
+  url: "https://www.coursera.org/learn/data-management"    
 ---
