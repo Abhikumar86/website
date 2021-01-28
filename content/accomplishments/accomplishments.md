@@ -90,9 +90,28 @@ item:
 - certificate_url: https://www.coursera.org/verify/P7576TUY37LU
   date_end: "2020-10-26"
   date_start: "2020-10-01"
-  description: This 5-course online specialization covered the basics of academic essay writing including grammar and punctuation, academic language, citing sources in different formats and developing a good research paper.  
+  description: This 5-week online course covered an introduction to research data management and sharing. Specifically, it included the management plans, organization, documentation, storage and security of research data. Further, it introduced the impetus and importance of archiving and sharing data as well as how to assess the trustworthiness of repositories.  
   organization: Coursera | University of North Carolina, Chapel Hill and University of Edinburgh
   organization_url: https://www.coursera.org
   title: 'Research Data Management and Sharing'
-  url: "https://www.coursera.org/learn/data-management"    
+  url: "https://www.coursera.org/learn/data-management"
+  
+- certificate_url: https://www.coursera.org/verify/3QGWUV2FNDD3
+  date_end: "2020-10-26"
+  date_start: "2020-10-01"
+  description: This 3-week online course covered a thorough introduction to the Sustainable Development Goals (SDGs), specifically what they are, how progress can be measured, and how the SDGs are relevant for the management of the global systems supporting humanity.
+  organization: Coursera | University of Copenhagen
+  organization_url: https://www.coursera.org
+  title: 'The Sustainable Development Goals – A Global, Transdisciplinary Vision for the Future'
+  url: "https://www.coursera.org/learn/global-sustainable-development"
+  
+- certificate_url: https://www.coursera.org/verify/5KMEM6ZXH777
+  date_end: "2020-07-26"
+  date_start: "2020-07-01"
+  description: This 5-week online course covered what algae are, why they are important, and why we are interested in them for both their environmental benefit, as well as their use for products.
+  organization: Coursera | University of California San Diego
+  organization_url: https://www.coursera.org
+  title: 'Introduction to Algae'
+  url: "https://www.coursera.org/learn/algae"
+  
 ---
