@@ -113,5 +113,13 @@ item:
   organization_url: https://www.coursera.org
   title: 'Introduction to Algae'
   url: "https://www.coursera.org/learn/algae"
-  
+
+- certificate_url: https://www.coursera.org/verify/V9X7ZC8RD3U2
+  date_end: "2020-07-15"
+  date_start: "2020-05-01"
+  description: This 12-lesson online course covered an interdisciplinary field of study focusing on the physical, biological, and human dimensions of mountains.
+  organization: Coursera | University of Alberta
+  organization_url: https://www.coursera.org
+  title: 'Mountains 101'
+  url: "https://www.coursera.org/learn/mountains-101"
 ---
