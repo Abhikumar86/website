@@ -40,7 +40,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: "SpringerLink"
-    url: "https://link.springer.com/chapter/10.1007/978-3-030-63249-6_8"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-63249-6_8"
 url_pdf: ""
 url_code: ''
 url_dataset: ''
@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'Image credit: [**Markus Spiske | Unsplash**](https://unsplash.com/photos/d4SLJNrU4rs)'
 focal_point: ""
 preview_only: false
 
