@@ -23,7 +23,7 @@ publishDate: "2021-03-15"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In V. K. Singh, R. Singh, & E. Lichtfouse (Eds.), *Sustainable Agriculture Reviews 50: Emerging Contaminants in Agriculture* (pp. 211–234). Springer, Switzerland. https://doi.org/10.1007/978-3-030-63249-6_8"
+publication: "In V. K. Singh, R. Singh, & E. Lichtfouse (Eds.), *Sustainable Agriculture Reviews 50: Emerging Contaminants in Agriculture* (pp. 211–234). Springer, Switzerland."
 publication_short: ""
 
 abstract: To maximize better yield of the crops by any means in the recent agricultural practices, cultivators are applying today different kind of organic and inorganic chemical compounds in the form of fertilizers and pesticides with high rates of application. These chemical compounds often get deposited into soils and increase their concentrations beyond a certain threshold. Whenever the concentration of some chemical compounds increases beyond a threshold level then corresponding compounds may start interfering with the ecological processes, such soils are referred as `contaminated soil'. However, agricultural soil contamination not only interferes with the physiology and metabolism of crop plants, but also results in various health disorders to human beings. Among several contaminants of the soils, polycyclic aromatic hydrocarbons are highly hazardous and ubiquitously present in environment. Thus, soil contamination by polycyclic aromatic hydrocarbons needs to be carefully monitored and managed to minimize the impacts on global ecosystems and human health.
