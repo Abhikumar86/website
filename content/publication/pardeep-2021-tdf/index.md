@@ -10,7 +10,7 @@ date: '2021-04-22'
 author_notes: ''
 doi: 
 publishDate: '2021-04-23'
-publication_types: '6'
+publication_types: ['6']
 publication: 'In R. K. Chaturvedi, R. Singh, & R. Bhadouria (Eds.), *Tropical Dry Forests: Emerging Features and Ecological Perspectives* (pp. 207–246). Nova Science Publishers, Inc., New York'
 publication_short: ''
 math: true
