@@ -1,5 +1,5 @@
 ---
-title: Best Textbooks for Ecology
+title: My Favourite Textbooks for Ecology
 subtitle: 
 
 # Summary for listings and search engines
@@ -39,16 +39,20 @@ categories:
 - Books
 ---
 
-[![Ecology by Bowman et al.](https://global.oup.com/academic/covers/pdp/9781605359212)](https://global.oup.com/ushe/product/ecology-9781605359212?cc=us&lang=en&)
+[![Bowman](https://global.oup.com/academic/covers/pdp/9781605359212){height=250px}](https://global.oup.com/ushe/product/ecology-9781605359212?cc=us&lang=en&)
+[![Molles](https://www.mheducation.com/cover-images/Jpeg_400-high/1259880052.jpeg){height=250px}](https://www.mheducation.com/highered/product/ecology-concepts-applications-molles-sher/M9781259880056.html)
+[![Smith](https://www.pearsonhighered.com/assets/bigcovers/0/3/2/1/0321934180.jpg){height=250px}](https://www.pearson.com/us/higher-education/product/Smith-Elements-of-Ecology-9th-Edition/9780321934185.html)
+[![Ricklefs](https://images-na.ssl-images-amazon.com/images/I/61yqRReX7oL._SX389_BO1,204,203,200_.jpg){height=250px}](https://store.macmillanlearning.com/ca/product/Ecology-The-Economy-of-Nature/p/1319282687)
+
 
 ***
 
-[![Ecology: Concepts and Applications by Molles and Sher](https://www.mheducation.com/cover-images/Jpeg_400-high/1259880052.jpeg)](https://www.mheducation.com/highered/product/ecology-concepts-applications-molles-sher/M9781259880056.html)
 
-***
+|                                                                               |
+|:------------------------------------------------------------------------------|
+| Bowman, W.D., & Hacker, S.D. (2020). *Ecology* (5th ed.). Oxford University Press (p. 744) |
+| Molles, M. & Sher, A. (2019). *Ecology: Concepts and Applications* (8th ed.). McGraw-Hill Education (p.593)| 
+| Smith, T.M., & Smith, R.L. (2015). *Elements of Ecology* (9th ed.). Pearson Education (p. 704)| 
+| Relyea, R. & Ricklefs, R.E. (2018). *Ecology: The Economy of Nature* (8th ed.). WH Freeman (p. 656)| 
 
-[![Elements of Ecology by Smith and Smith](https://www.pearsonhighered.com/assets/bigcovers/0/3/2/1/0321934180.jpg){width="250px"}](https://www.pearson.com/us/higher-education/product/Smith-Elements-of-Ecology-9th-Edition/9780321934185.html)|
-
-***
-
-[![Ecology: The Economy of Nature by Relyea and Ricklefs](https://images-na.ssl-images-amazon.com/images/I/61yqRReX7oL._SX389_BO1,204,203,200_.jpg)](https://www.macmillanihe.com/page/detail/ecology-the-economy-of-nature/?k=9781319187729&loc=uk&priceCode=de)
+: Textbooks for Ecology
